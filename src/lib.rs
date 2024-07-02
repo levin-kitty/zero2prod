@@ -1,6 +1,7 @@
 //
 pub mod configuration;
 
+pub mod authentication;
 mod domain;
 pub mod email_client;
 pub mod routes;
